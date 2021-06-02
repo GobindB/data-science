@@ -86,7 +86,7 @@ tornado==6.0.4
 tqdm==4.46.0
 traitlets==4.3.3
 Twisted==20.3.0
-urllib3==1.24.3
+urllib3==1.26.5
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
