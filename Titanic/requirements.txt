@@ -51,7 +51,7 @@ parso==0.7.0
 pbr==5.4.5
 pexpect==4.8.0
 pickleshare==0.7.5
-pipenv==2020.6.2
+pipenv==2022.1.8
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 Protego==0.1.16
