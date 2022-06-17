@@ -72,7 +72,7 @@ pytz==2020.1
 pyzmq==19.0.0
 queuelib==1.5.0
 requests==2.23.0
-Scrapy==2.1.0
+Scrapy==2.6.1
 Send2Trash==1.5.0
 service-identity==18.1.0
 six==1.14.0
